@@ -1,0 +1,1602 @@
+[
+    {
+        "roll_no": 75,
+        "name": "Shawn Hunter",
+        "physics_marks": 76,
+        "chemistry_marks": 90,
+        "maths_marks": 84,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 160,
+        "name": "Jimmy West",
+        "physics_marks": 70,
+        "chemistry_marks": 77,
+        "maths_marks": 74,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 104,
+        "name": "Claudia Blount",
+        "physics_marks": 52,
+        "chemistry_marks": 31,
+        "maths_marks": 77,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 87,
+        "name": "Dawn Kreiter",
+        "physics_marks": 45,
+        "chemistry_marks": 78,
+        "maths_marks": 74,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 150,
+        "name": "Randi Patton",
+        "physics_marks": 89,
+        "chemistry_marks": 90,
+        "maths_marks": 69,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 17,
+        "name": "Alan Olson",
+        "physics_marks": 36,
+        "chemistry_marks": 54,
+        "maths_marks": 80,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 11,
+        "name": "Michael Legg",
+        "physics_marks": 78,
+        "chemistry_marks": 48,
+        "maths_marks": 78,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 26,
+        "name": "Alyce Turpin",
+        "physics_marks": 52,
+        "chemistry_marks": 45,
+        "maths_marks": 85,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 83,
+        "name": "Jonas Baltes",
+        "physics_marks": 36,
+        "chemistry_marks": 85,
+        "maths_marks": 87,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 8,
+        "name": "Enrique Steward",
+        "physics_marks": 64,
+        "chemistry_marks": 80,
+        "maths_marks": 56,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 2,
+        "name": "Margarita Spirko",
+        "physics_marks": 81,
+        "chemistry_marks": 88,
+        "maths_marks": 51,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 4,
+        "name": "Lindsey Pablo",
+        "physics_marks": 92,
+        "chemistry_marks": 39,
+        "maths_marks": 36,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 151,
+        "name": "Albert Clarence",
+        "physics_marks": 38,
+        "chemistry_marks": 58,
+        "maths_marks": 61,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 56,
+        "name": "Wendi Tritto",
+        "physics_marks": 78,
+        "chemistry_marks": 30,
+        "maths_marks": 39,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 77,
+        "name": "Phillip Young",
+        "physics_marks": 63,
+        "chemistry_marks": 74,
+        "maths_marks": 80,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 15,
+        "name": "Laura Blomdahl",
+        "physics_marks": 34,
+        "chemistry_marks": 44,
+        "maths_marks": 58,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 148,
+        "name": "Brenda Oneil",
+        "physics_marks": 60,
+        "chemistry_marks": 44,
+        "maths_marks": 54,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 161,
+        "name": "Renee Hurst",
+        "physics_marks": 93,
+        "chemistry_marks": 56,
+        "maths_marks": 51,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 145,
+        "name": "Justin Kennedy",
+        "physics_marks": 61,
+        "chemistry_marks": 64,
+        "maths_marks": 70,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 128,
+        "name": "Cathrine Hartman",
+        "physics_marks": 61,
+        "chemistry_marks": 53,
+        "maths_marks": 75,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 164,
+        "name": "Mavis Beeman",
+        "physics_marks": 92,
+        "chemistry_marks": 68,
+        "maths_marks": 92,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 80,
+        "name": "Jose Whaley",
+        "physics_marks": 41,
+        "chemistry_marks": 56,
+        "maths_marks": 66,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 21,
+        "name": "John Griffin",
+        "physics_marks": 95,
+        "chemistry_marks": 31,
+        "maths_marks": 72,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 73,
+        "name": "Ruth Gaddis",
+        "physics_marks": 90,
+        "chemistry_marks": 54,
+        "maths_marks": 42,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 170,
+        "name": "John Rankin",
+        "physics_marks": 40,
+        "chemistry_marks": 41,
+        "maths_marks": 46,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 195,
+        "name": "Mary Banchero",
+        "physics_marks": 80,
+        "chemistry_marks": 73,
+        "maths_marks": 71,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 12,
+        "name": "Eric Davenport",
+        "physics_marks": 49,
+        "chemistry_marks": 60,
+        "maths_marks": 55,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 36,
+        "name": "Stephen Schumpert",
+        "physics_marks": 58,
+        "chemistry_marks": 59,
+        "maths_marks": 51,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 13,
+        "name": "Regina Carey",
+        "physics_marks": 37,
+        "chemistry_marks": 30,
+        "maths_marks": 55,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 35,
+        "name": "Pamela Adams",
+        "physics_marks": 64,
+        "chemistry_marks": 92,
+        "maths_marks": 80,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 190,
+        "name": "Carrie Fritzler",
+        "physics_marks": 61,
+        "chemistry_marks": 58,
+        "maths_marks": 48,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 9,
+        "name": "Ellen Grober",
+        "physics_marks": 78,
+        "chemistry_marks": 30,
+        "maths_marks": 72,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 158,
+        "name": "Dorothy Collazo",
+        "physics_marks": 89,
+        "chemistry_marks": 95,
+        "maths_marks": 70,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 40,
+        "name": "Katherine Flook",
+        "physics_marks": 84,
+        "chemistry_marks": 61,
+        "maths_marks": 70,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 37,
+        "name": "Frank Horsley",
+        "physics_marks": 50,
+        "chemistry_marks": 81,
+        "maths_marks": 59,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 186,
+        "name": "Sophia Melton",
+        "physics_marks": 71,
+        "chemistry_marks": 40,
+        "maths_marks": 91,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 188,
+        "name": "Odessa Guy",
+        "physics_marks": 74,
+        "chemistry_marks": 78,
+        "maths_marks": 82,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 126,
+        "name": "Philip Joyner",
+        "physics_marks": 48,
+        "chemistry_marks": 54,
+        "maths_marks": 66,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 178,
+        "name": "Charles Labarre",
+        "physics_marks": 52,
+        "chemistry_marks": 37,
+        "maths_marks": 63,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 10,
+        "name": "Jessie Ainley",
+        "physics_marks": 39,
+        "chemistry_marks": 93,
+        "maths_marks": 75,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 107,
+        "name": "Anthony Lynch",
+        "physics_marks": 36,
+        "chemistry_marks": 73,
+        "maths_marks": 66,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 101,
+        "name": "Victor Hall",
+        "physics_marks": 91,
+        "chemistry_marks": 43,
+        "maths_marks": 30,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 85,
+        "name": "Norma Gildea",
+        "physics_marks": 73,
+        "chemistry_marks": 94,
+        "maths_marks": 44,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 144,
+        "name": "Eric Lang",
+        "physics_marks": 47,
+        "chemistry_marks": 83,
+        "maths_marks": 93,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 182,
+        "name": "Jerlene Gilchrist",
+        "physics_marks": 50,
+        "chemistry_marks": 86,
+        "maths_marks": 88,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 133,
+        "name": "Thomas Mcnealy",
+        "physics_marks": 88,
+        "chemistry_marks": 85,
+        "maths_marks": 30,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 147,
+        "name": "Wilma Pruett",
+        "physics_marks": 68,
+        "chemistry_marks": 49,
+        "maths_marks": 69,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 31,
+        "name": "James Richardson",
+        "physics_marks": 73,
+        "chemistry_marks": 46,
+        "maths_marks": 61,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 32,
+        "name": "Kyle Cavazos",
+        "physics_marks": 44,
+        "chemistry_marks": 73,
+        "maths_marks": 43,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 191,
+        "name": "Deborah Cassidy",
+        "physics_marks": 80,
+        "chemistry_marks": 49,
+        "maths_marks": 42,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 103,
+        "name": "Rosella Ventura",
+        "physics_marks": 57,
+        "chemistry_marks": 89,
+        "maths_marks": 65,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 48,
+        "name": "Ralph Meyer",
+        "physics_marks": 78,
+        "chemistry_marks": 86,
+        "maths_marks": 40,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 108,
+        "name": "Thomas Theriot",
+        "physics_marks": 86,
+        "chemistry_marks": 49,
+        "maths_marks": 45,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 106,
+        "name": "Robert Reeve",
+        "physics_marks": 33,
+        "chemistry_marks": 70,
+        "maths_marks": 35,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 109,
+        "name": "Nancy Corbin",
+        "physics_marks": 85,
+        "chemistry_marks": 82,
+        "maths_marks": 46,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 184,
+        "name": "Derrick James",
+        "physics_marks": 68,
+        "chemistry_marks": 65,
+        "maths_marks": 70,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 99,
+        "name": "Laurie Malandruccolo",
+        "physics_marks": 81,
+        "chemistry_marks": 76,
+        "maths_marks": 62,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 137,
+        "name": "Lottie Oconnor",
+        "physics_marks": 86,
+        "chemistry_marks": 50,
+        "maths_marks": 88,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 135,
+        "name": "Ralph Johnson",
+        "physics_marks": 85,
+        "chemistry_marks": 62,
+        "maths_marks": 52,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 143,
+        "name": "Leo Dobkowski",
+        "physics_marks": 76,
+        "chemistry_marks": 59,
+        "maths_marks": 77,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 28,
+        "name": "Tamara Segars",
+        "physics_marks": 51,
+        "chemistry_marks": 36,
+        "maths_marks": 50,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 196,
+        "name": "Marcus Howard",
+        "physics_marks": 66,
+        "chemistry_marks": 32,
+        "maths_marks": 93,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 96,
+        "name": "Lawrence Hoffman",
+        "physics_marks": 83,
+        "chemistry_marks": 73,
+        "maths_marks": 84,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 3,
+        "name": "Jessie Hinkle",
+        "physics_marks": 34,
+        "chemistry_marks": 71,
+        "maths_marks": 71,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 71,
+        "name": "Sarah Tinker",
+        "physics_marks": 62,
+        "chemistry_marks": 79,
+        "maths_marks": 39,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 94,
+        "name": "Linda Dunning",
+        "physics_marks": 45,
+        "chemistry_marks": 71,
+        "maths_marks": 31,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 39,
+        "name": "Charles Estey",
+        "physics_marks": 79,
+        "chemistry_marks": 83,
+        "maths_marks": 33,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 132,
+        "name": "Anthony Bolte",
+        "physics_marks": 68,
+        "chemistry_marks": 67,
+        "maths_marks": 65,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 116,
+        "name": "Mary Jones",
+        "physics_marks": 51,
+        "chemistry_marks": 52,
+        "maths_marks": 85,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 89,
+        "name": "Kenneth Weese",
+        "physics_marks": 66,
+        "chemistry_marks": 80,
+        "maths_marks": 50,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 5,
+        "name": "Benjamin Godwin",
+        "physics_marks": 31,
+        "chemistry_marks": 84,
+        "maths_marks": 70,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 82,
+        "name": "Johnnie Jung",
+        "physics_marks": 83,
+        "chemistry_marks": 66,
+        "maths_marks": 35,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 60,
+        "name": "Danielle Mcnabb",
+        "physics_marks": 90,
+        "chemistry_marks": 68,
+        "maths_marks": 52,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 34,
+        "name": "Richard Murphy",
+        "physics_marks": 80,
+        "chemistry_marks": 66,
+        "maths_marks": 44,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 97,
+        "name": "Clementine Mchenry",
+        "physics_marks": 63,
+        "chemistry_marks": 88,
+        "maths_marks": 73,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 200,
+        "name": "Douglas Frazier",
+        "physics_marks": 42,
+        "chemistry_marks": 82,
+        "maths_marks": 45,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 67,
+        "name": "Patricia Comacho",
+        "physics_marks": 37,
+        "chemistry_marks": 72,
+        "maths_marks": 41,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 183,
+        "name": "Kathleen Cyrus",
+        "physics_marks": 90,
+        "chemistry_marks": 82,
+        "maths_marks": 54,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 155,
+        "name": "Ada Hemming",
+        "physics_marks": 37,
+        "chemistry_marks": 64,
+        "maths_marks": 44,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 123,
+        "name": "Rebecca Pilcher",
+        "physics_marks": 93,
+        "chemistry_marks": 48,
+        "maths_marks": 37,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 100,
+        "name": "Danny Thomas",
+        "physics_marks": 78,
+        "chemistry_marks": 44,
+        "maths_marks": 91,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 95,
+        "name": "Miguelina Sayers",
+        "physics_marks": 90,
+        "chemistry_marks": 81,
+        "maths_marks": 69,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 88,
+        "name": "Ginger Jonas",
+        "physics_marks": 30,
+        "chemistry_marks": 83,
+        "maths_marks": 72,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 86,
+        "name": "Carmine Bardsley",
+        "physics_marks": 58,
+        "chemistry_marks": 66,
+        "maths_marks": 47,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 68,
+        "name": "Guy Rodriguez",
+        "physics_marks": 31,
+        "chemistry_marks": 64,
+        "maths_marks": 58,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 194,
+        "name": "Brenda Knight",
+        "physics_marks": 32,
+        "chemistry_marks": 49,
+        "maths_marks": 36,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 198,
+        "name": "Suzanne Williams",
+        "physics_marks": 35,
+        "chemistry_marks": 63,
+        "maths_marks": 49,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 84,
+        "name": "Sandra Diaz",
+        "physics_marks": 76,
+        "chemistry_marks": 48,
+        "maths_marks": 42,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 18,
+        "name": "Beth Paider",
+        "physics_marks": 91,
+        "chemistry_marks": 77,
+        "maths_marks": 73,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 102,
+        "name": "Michael Honaker",
+        "physics_marks": 92,
+        "chemistry_marks": 47,
+        "maths_marks": 89,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 54,
+        "name": "Nicole Veliz",
+        "physics_marks": 94,
+        "chemistry_marks": 54,
+        "maths_marks": 39,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 33,
+        "name": "Jesus Hope",
+        "physics_marks": 62,
+        "chemistry_marks": 69,
+        "maths_marks": 31,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 43,
+        "name": "Vera Wray",
+        "physics_marks": 31,
+        "chemistry_marks": 30,
+        "maths_marks": 66,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 129,
+        "name": "Luther Morgan",
+        "physics_marks": 60,
+        "chemistry_marks": 86,
+        "maths_marks": 41,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 38,
+        "name": "Sean Calo",
+        "physics_marks": 38,
+        "chemistry_marks": 72,
+        "maths_marks": 41,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 130,
+        "name": "Donald Nguyen",
+        "physics_marks": 37,
+        "chemistry_marks": 40,
+        "maths_marks": 45,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 192,
+        "name": "Debra Thurgood",
+        "physics_marks": 34,
+        "chemistry_marks": 58,
+        "maths_marks": 56,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 46,
+        "name": "Eric Fabert",
+        "physics_marks": 45,
+        "chemistry_marks": 85,
+        "maths_marks": 81,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 22,
+        "name": "Janice Taft",
+        "physics_marks": 74,
+        "chemistry_marks": 69,
+        "maths_marks": 53,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 105,
+        "name": "Blanche Behrmann",
+        "physics_marks": 87,
+        "chemistry_marks": 47,
+        "maths_marks": 55,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 120,
+        "name": "Vanessa Obrien",
+        "physics_marks": 62,
+        "chemistry_marks": 56,
+        "maths_marks": 71,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 69,
+        "name": "Lloyd Laxson",
+        "physics_marks": 50,
+        "chemistry_marks": 65,
+        "maths_marks": 60,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 14,
+        "name": "Richard Pannell",
+        "physics_marks": 54,
+        "chemistry_marks": 50,
+        "maths_marks": 86,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 74,
+        "name": "Michele Ramirez",
+        "physics_marks": 56,
+        "chemistry_marks": 62,
+        "maths_marks": 73,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 173,
+        "name": "Lori Harmon",
+        "physics_marks": 87,
+        "chemistry_marks": 84,
+        "maths_marks": 30,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 167,
+        "name": "Richard Davis",
+        "physics_marks": 86,
+        "chemistry_marks": 68,
+        "maths_marks": 33,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 141,
+        "name": "Mark Jiminez",
+        "physics_marks": 58,
+        "chemistry_marks": 60,
+        "maths_marks": 93,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 124,
+        "name": "Steven Pittman",
+        "physics_marks": 51,
+        "chemistry_marks": 75,
+        "maths_marks": 64,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 121,
+        "name": "Gail Waldron",
+        "physics_marks": 43,
+        "chemistry_marks": 48,
+        "maths_marks": 91,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 91,
+        "name": "David Person",
+        "physics_marks": 30,
+        "chemistry_marks": 31,
+        "maths_marks": 82,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 98,
+        "name": "Ruby Reece",
+        "physics_marks": 62,
+        "chemistry_marks": 53,
+        "maths_marks": 81,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 53,
+        "name": "Michael Boyd",
+        "physics_marks": 59,
+        "chemistry_marks": 64,
+        "maths_marks": 40,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 24,
+        "name": "Katherine Musielak",
+        "physics_marks": 57,
+        "chemistry_marks": 73,
+        "maths_marks": 47,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 1,
+        "name": "James Fisher",
+        "physics_marks": 65,
+        "chemistry_marks": 72,
+        "maths_marks": 57,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 61,
+        "name": "Kelvin Barnard",
+        "physics_marks": 47,
+        "chemistry_marks": 69,
+        "maths_marks": 43,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 78,
+        "name": "Micah Lewis",
+        "physics_marks": 83,
+        "chemistry_marks": 86,
+        "maths_marks": 33,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 174,
+        "name": "William Cantua",
+        "physics_marks": 76,
+        "chemistry_marks": 59,
+        "maths_marks": 89,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 16,
+        "name": "Robert Luzar",
+        "physics_marks": 54,
+        "chemistry_marks": 52,
+        "maths_marks": 51,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 131,
+        "name": "Steve Beal",
+        "physics_marks": 66,
+        "chemistry_marks": 55,
+        "maths_marks": 70,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 50,
+        "name": "Mary Phillips",
+        "physics_marks": 85,
+        "chemistry_marks": 45,
+        "maths_marks": 77,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 6,
+        "name": "Miguel Osuna",
+        "physics_marks": 30,
+        "chemistry_marks": 84,
+        "maths_marks": 72,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 81,
+        "name": "Terrance Fox",
+        "physics_marks": 73,
+        "chemistry_marks": 69,
+        "maths_marks": 88,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 79,
+        "name": "Hugh Cole",
+        "physics_marks": 34,
+        "chemistry_marks": 41,
+        "maths_marks": 94,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 175,
+        "name": "Mary Bryand",
+        "physics_marks": 48,
+        "chemistry_marks": 46,
+        "maths_marks": 41,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 122,
+        "name": "Joseph Williams",
+        "physics_marks": 92,
+        "chemistry_marks": 72,
+        "maths_marks": 32,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 199,
+        "name": "Enrique Molina",
+        "physics_marks": 84,
+        "chemistry_marks": 89,
+        "maths_marks": 33,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 92,
+        "name": "Stella Fisher",
+        "physics_marks": 92,
+        "chemistry_marks": 72,
+        "maths_marks": 90,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 44,
+        "name": "Helen Staats",
+        "physics_marks": 33,
+        "chemistry_marks": 32,
+        "maths_marks": 63,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 59,
+        "name": "Cathleen Smith",
+        "physics_marks": 87,
+        "chemistry_marks": 33,
+        "maths_marks": 83,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 172,
+        "name": "Tommy Clark",
+        "physics_marks": 45,
+        "chemistry_marks": 54,
+        "maths_marks": 30,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 111,
+        "name": "Ella Espinoza",
+        "physics_marks": 43,
+        "chemistry_marks": 47,
+        "maths_marks": 65,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 113,
+        "name": "Nathan Girouard",
+        "physics_marks": 50,
+        "chemistry_marks": 66,
+        "maths_marks": 46,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 187,
+        "name": "Alicia Pulver",
+        "physics_marks": 34,
+        "chemistry_marks": 32,
+        "maths_marks": 45,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 20,
+        "name": "Maria James",
+        "physics_marks": 68,
+        "chemistry_marks": 52,
+        "maths_marks": 74,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 142,
+        "name": "Jolanda Johnson",
+        "physics_marks": 89,
+        "chemistry_marks": 39,
+        "maths_marks": 49,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 112,
+        "name": "Sean Jacobson",
+        "physics_marks": 73,
+        "chemistry_marks": 54,
+        "maths_marks": 31,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 146,
+        "name": "Ty Obannon",
+        "physics_marks": 57,
+        "chemistry_marks": 40,
+        "maths_marks": 52,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 168,
+        "name": "Clelia Vega",
+        "physics_marks": 57,
+        "chemistry_marks": 64,
+        "maths_marks": 87,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 152,
+        "name": "Nicholas Beverly",
+        "physics_marks": 57,
+        "chemistry_marks": 87,
+        "maths_marks": 92,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 110,
+        "name": "Bertha Vaughan",
+        "physics_marks": 63,
+        "chemistry_marks": 89,
+        "maths_marks": 92,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 159,
+        "name": "Jorge Vu",
+        "physics_marks": 32,
+        "chemistry_marks": 37,
+        "maths_marks": 93,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 165,
+        "name": "Richard Lyles",
+        "physics_marks": 34,
+        "chemistry_marks": 55,
+        "maths_marks": 94,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 118,
+        "name": "Randy Goeppner",
+        "physics_marks": 36,
+        "chemistry_marks": 63,
+        "maths_marks": 43,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 156,
+        "name": "George Eggen",
+        "physics_marks": 56,
+        "chemistry_marks": 78,
+        "maths_marks": 52,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 47,
+        "name": "Michael Green",
+        "physics_marks": 42,
+        "chemistry_marks": 65,
+        "maths_marks": 86,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 180,
+        "name": "Joe Dudley",
+        "physics_marks": 84,
+        "chemistry_marks": 76,
+        "maths_marks": 60,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 57,
+        "name": "Steven Lockridge",
+        "physics_marks": 32,
+        "chemistry_marks": 94,
+        "maths_marks": 86,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 136,
+        "name": "Carl Kammerer",
+        "physics_marks": 40,
+        "chemistry_marks": 64,
+        "maths_marks": 40,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 58,
+        "name": "Samantha Youngblood",
+        "physics_marks": 56,
+        "chemistry_marks": 41,
+        "maths_marks": 75,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 139,
+        "name": "Casimira Dailey",
+        "physics_marks": 54,
+        "chemistry_marks": 65,
+        "maths_marks": 73,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 153,
+        "name": "Cynthia Maust",
+        "physics_marks": 44,
+        "chemistry_marks": 68,
+        "maths_marks": 31,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 52,
+        "name": "Mary Thayer",
+        "physics_marks": 50,
+        "chemistry_marks": 75,
+        "maths_marks": 72,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 119,
+        "name": "Sophie Gonzalas",
+        "physics_marks": 68,
+        "chemistry_marks": 46,
+        "maths_marks": 85,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 162,
+        "name": "Natasha Savage",
+        "physics_marks": 71,
+        "chemistry_marks": 59,
+        "maths_marks": 45,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 125,
+        "name": "Leonor Morton",
+        "physics_marks": 88,
+        "chemistry_marks": 85,
+        "maths_marks": 89,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 72,
+        "name": "Martha Jahns",
+        "physics_marks": 47,
+        "chemistry_marks": 36,
+        "maths_marks": 50,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 176,
+        "name": "Cleo Esquivel",
+        "physics_marks": 52,
+        "chemistry_marks": 46,
+        "maths_marks": 60,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 166,
+        "name": "Troy Garza",
+        "physics_marks": 93,
+        "chemistry_marks": 38,
+        "maths_marks": 38,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 49,
+        "name": "Michael Cooper",
+        "physics_marks": 47,
+        "chemistry_marks": 41,
+        "maths_marks": 62,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 171,
+        "name": "Ivan Blackburn",
+        "physics_marks": 71,
+        "chemistry_marks": 39,
+        "maths_marks": 44,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 51,
+        "name": "Don Sturtz",
+        "physics_marks": 66,
+        "chemistry_marks": 70,
+        "maths_marks": 70,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 189,
+        "name": "Joseph Dincher",
+        "physics_marks": 62,
+        "chemistry_marks": 35,
+        "maths_marks": 80,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 134,
+        "name": "Cyrus Brown",
+        "physics_marks": 42,
+        "chemistry_marks": 54,
+        "maths_marks": 41,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 193,
+        "name": "Maria Olson",
+        "physics_marks": 42,
+        "chemistry_marks": 31,
+        "maths_marks": 90,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 19,
+        "name": "Robert Soule",
+        "physics_marks": 33,
+        "chemistry_marks": 64,
+        "maths_marks": 58,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 30,
+        "name": "Doris Huff",
+        "physics_marks": 69,
+        "chemistry_marks": 88,
+        "maths_marks": 69,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 70,
+        "name": "Joseph Clark",
+        "physics_marks": 71,
+        "chemistry_marks": 46,
+        "maths_marks": 51,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 66,
+        "name": "John Ibarra",
+        "physics_marks": 55,
+        "chemistry_marks": 47,
+        "maths_marks": 58,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 114,
+        "name": "Margret Gomez",
+        "physics_marks": 58,
+        "chemistry_marks": 31,
+        "maths_marks": 70,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 117,
+        "name": "Evan Holquin",
+        "physics_marks": 53,
+        "chemistry_marks": 51,
+        "maths_marks": 73,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 23,
+        "name": "Tracy Koehler",
+        "physics_marks": 64,
+        "chemistry_marks": 63,
+        "maths_marks": 55,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 65,
+        "name": "Gail Blair",
+        "physics_marks": 51,
+        "chemistry_marks": 78,
+        "maths_marks": 51,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 154,
+        "name": "Emery Manning",
+        "physics_marks": 95,
+        "chemistry_marks": 91,
+        "maths_marks": 79,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 41,
+        "name": "Dorothy Richardson",
+        "physics_marks": 91,
+        "chemistry_marks": 80,
+        "maths_marks": 46,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 7,
+        "name": "Brenda Molina",
+        "physics_marks": 52,
+        "chemistry_marks": 95,
+        "maths_marks": 62,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 157,
+        "name": "Christine Morales",
+        "physics_marks": 69,
+        "chemistry_marks": 34,
+        "maths_marks": 78,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 115,
+        "name": "Debbie Earls",
+        "physics_marks": 82,
+        "chemistry_marks": 34,
+        "maths_marks": 78,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 62,
+        "name": "Emma Harris",
+        "physics_marks": 66,
+        "chemistry_marks": 91,
+        "maths_marks": 72,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 169,
+        "name": "Ryan Goeltz",
+        "physics_marks": 59,
+        "chemistry_marks": 90,
+        "maths_marks": 54,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 177,
+        "name": "Carl Schaller",
+        "physics_marks": 62,
+        "chemistry_marks": 31,
+        "maths_marks": 89,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 64,
+        "name": "Rhonda Sedore",
+        "physics_marks": 55,
+        "chemistry_marks": 49,
+        "maths_marks": 81,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 181,
+        "name": "Juanita Keenan",
+        "physics_marks": 62,
+        "chemistry_marks": 73,
+        "maths_marks": 80,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 197,
+        "name": "Danny Mayo",
+        "physics_marks": 61,
+        "chemistry_marks": 40,
+        "maths_marks": 86,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 29,
+        "name": "Abel Rodgers",
+        "physics_marks": 56,
+        "chemistry_marks": 67,
+        "maths_marks": 95,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 25,
+        "name": "Kelly Ward",
+        "physics_marks": 95,
+        "chemistry_marks": 32,
+        "maths_marks": 80,
+        "result": "FAILED"
+    },
+    {
+        "roll_no": 27,
+        "name": "Michael Gilbert",
+        "physics_marks": 54,
+        "chemistry_marks": 71,
+        "maths_marks": 53,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 42,
+        "name": "Kimberly Bell",
+        "physics_marks": 88,
+        "chemistry_marks": 67,
+        "maths_marks": 78,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 149,
+        "name": "Sheila Hardy",
+        "physics_marks": 62,
+        "chemistry_marks": 79,
+        "maths_marks": 40,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 163,
+        "name": "John Komar",
+        "physics_marks": 35,
+        "chemistry_marks": 80,
+        "maths_marks": 75,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 63,
+        "name": "Jay Mares",
+        "physics_marks": 93,
+        "chemistry_marks": 62,
+        "maths_marks": 49,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 179,
+        "name": "Jeane Northcutt",
+        "physics_marks": 55,
+        "chemistry_marks": 70,
+        "maths_marks": 86,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 76,
+        "name": "Kim Diggs",
+        "physics_marks": 48,
+        "chemistry_marks": 53,
+        "maths_marks": 42,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 127,
+        "name": "Donald Wertheim",
+        "physics_marks": 45,
+        "chemistry_marks": 72,
+        "maths_marks": 53,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 93,
+        "name": "Donna Leser",
+        "physics_marks": 66,
+        "chemistry_marks": 37,
+        "maths_marks": 54,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 45,
+        "name": "Richard Weiss",
+        "physics_marks": 47,
+        "chemistry_marks": 88,
+        "maths_marks": 84,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 55,
+        "name": "Darlene May",
+        "physics_marks": 64,
+        "chemistry_marks": 91,
+        "maths_marks": 63,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 138,
+        "name": "Tessie Gardner",
+        "physics_marks": 71,
+        "chemistry_marks": 90,
+        "maths_marks": 80,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 90,
+        "name": "Maria Hedgpeth",
+        "physics_marks": 55,
+        "chemistry_marks": 71,
+        "maths_marks": 67,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 185,
+        "name": "Lisa Abraham",
+        "physics_marks": 44,
+        "chemistry_marks": 44,
+        "maths_marks": 62,
+        "result": "PASSED"
+    },
+    {
+        "roll_no": 140,
+        "name": "Lourdes Landry",
+        "physics_marks": 65,
+        "chemistry_marks": 52,
+        "maths_marks": 89,
+        "result": "PASSED"
+    }
+]
